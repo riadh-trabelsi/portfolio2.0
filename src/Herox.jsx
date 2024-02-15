@@ -4,7 +4,7 @@ import HeroImg from "../assets/riadh7.png";
 import { AiOutlineLinkedin, AiOutlineGithub } from "react-icons/ai";
 import { FaDownload } from "react-icons/fa";
 
-const Hero = () => {
+const Herox = () => {
   const name = "Riadh Trabelsi";
   return (
     <section className="bg-primary px-5 text-white lg:pl-20 pt-24 pb-32">
@@ -88,4 +88,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Herox;

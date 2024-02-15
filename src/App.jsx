@@ -1,23 +1,23 @@
-import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router } from "react-router-dom";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
-import Hero from "./components/Hero";
+import Herox from "./components/Herox";
 import Contact from "./components/Contact";
 import Projects from "./components/Projects";
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <Router>
       <Header />
-      <Hero />
+    <Herox />
       <About />
       <Projects />
       <Contact />
-      <Footer />  
+      <Footer />
     </Router>
-  )
+  );
 }
 
 export default App;
