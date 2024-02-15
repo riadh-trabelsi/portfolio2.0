@@ -9,7 +9,7 @@ const Projects = () => {
           title: "uilogs",
           desc: "Get-Flix is a web application that allows users to explore and watch a vast collection of movies. Built with React, Bootstrap, MongoDb and Nodejs.[In progress]",
           live: "https://viewtopiafront.onrender.com/",
-          code: "https://github.com/Coderamrin/html-templates",
+          code: "https://github.com/riadh-trabelsi/Get-Flix/tree/new3",
         },
          {
           img: Clicker,
