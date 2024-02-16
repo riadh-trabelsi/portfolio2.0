@@ -66,16 +66,16 @@ const Header = () => {
       >
         <ul className="flex flex-col">
           <li>
-            <a href="/#about">About</a>
+            <a href="/#about" onClick={handleToggle}>About</a>
           </li>
           <li>
-            <a href="/#projects">Projects</a>
+            <a href="/#projects" onClick={handleToggle}>Projects</a>
           </li>
           <li>
-            <a href="/#contact">Contact</a>
+            <a href="/#contact" onClick={handleToggle}>Contact</a>
           </li>
           <li>
-            <a href="/#resume">Resume</a>
+            <a href="/#resume" onClick={handleToggle}>Resume</a>
           </li>
         </ul>
       </nav>

@@ -18,7 +18,7 @@ frameworks such as React.js.
           </p>
           <p className="pb-5">
           These practical skills, coupled with my ability to
-creatively solve problems, enable me to create visually appealing and user friendly interfaces
+creatively solve problems, enable me to create visually appealing and user friendly interfaces.
           </p>
           <div className="flex items-center justify-center">
             
@@ -32,7 +32,7 @@ creatively solve problems, enable me to create visually appealing and user frien
             </div>
             <div>
                 <LightBulbIcon className="h-6 w-6 text-yellow-500" />
-                <p>Inovation</p>
+                <p>Innovation</p>
             </div>
           
         </div>

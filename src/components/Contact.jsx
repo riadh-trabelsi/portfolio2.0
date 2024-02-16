@@ -10,7 +10,7 @@ const Contact = () => {
         </h2>
         <p>
           I am currently open for a fulltime Frontend Developer role. If you
-          want to discuss about that feel free to email me or call me.
+          want to discuss about that, feel free to email me or call me.
         </p>
 
         <p className="py-2">
