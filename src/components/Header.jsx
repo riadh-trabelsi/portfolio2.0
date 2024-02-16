@@ -53,7 +53,7 @@ const Header = () => {
             <a href="/#contact">Contact</a>
           </li>
           <li>
-            <a href="#resume -link" target="_blank" rel="noreferrer">
+            <a href="#resume -link" >
               Resume
             </a>
           </li>
@@ -70,9 +70,6 @@ const Header = () => {
           </li>
           <li>
             <a href="/#projects">Projects</a>
-          </li>
-          <li>
-            <a href="/#blog">Blog</a>
           </li>
           <li>
             <a href="/#contact">Contact</a>
