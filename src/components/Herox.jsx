@@ -60,7 +60,7 @@ const Herox = () => {
             </a>
 
             <a
-              href="https://drive.google.com/file/d/12QY4lDjJGzbTmNp5xK4bO8dmB3QNzy2t/view?usp=sharing"
+              href="https://drive.google.com/file/d/19oooUj1aG9YS6ViU2PgD1Zllo5loWyON/view?usp=sharing"
               download
               className="btn"
             >
